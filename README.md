@@ -93,7 +93,7 @@ https://vt-music.netlify.app/
 
 ## 🔗 VT
 
-* 📸 **Instagram:** [@VT](https://www.instagram.com/)
+* 📸 **Instagram:** [@VT](https://www.instagram.com/villafanx/)
 * 🎵 **Spotify:** disponível através do site
 * ▶️ **YouTube:** disponível através do site
 
@@ -107,7 +107,7 @@ Projeto desenvolvido por **Renan Mello** como parte do desenvolvimento do portf�
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/renan-emanoel-5237273b7/)
 * 💻 [GitHub](https://github.com/Mello7z)
-* 🌐 [Portfólio](https://mello7z.vercel.app/)
+* 🌐 [Portfólio](https://renan-os-portfolio.web.app/)
 
 ---
 
