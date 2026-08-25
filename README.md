@@ -10,7 +10,8 @@
 
 ## 🎧 Sobre o projeto
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/39739304-714c-400c-aee1-f18d0cd909f4" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ea2c333f-d6f8-4f9a-8c6b-a8cef459ffb0" />
+
 
 
 O **VT Music** é um projeto de desenvolvimento web criado para representar a identidade digital do artista **VT**.
