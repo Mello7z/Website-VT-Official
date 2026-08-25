@@ -1,0 +1,3 @@
+# INFORMAÇÕES DE USO
+Esta pasta contém os quadros de transição de terror no rodapé (Footer) do final do site.
+Substitua os arquivos VT1.png até VT7.png com as imagens de sua transformação para criar o efeito sincronizado de terror e falhas!

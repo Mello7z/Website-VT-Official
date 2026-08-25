@@ -1,0 +1,17 @@
+COMO CONFIGURAR SUAS PRÉVIAS:
+
+Nesta pasta `/public/previas/`, coloque os arquivos de áudio (.mp3) e os arquivos de capa (.png/.jpg) com os seguintes nomes para que o site toque e mostre as capas automaticamente:
+
+1. Para o PROJETO 06:
+   - Áudio: `PROJETO_06.mp3`
+   - Capa: `PROJETO_06.png` (ou .jpg)
+
+2. Para o PROJETO 07:
+   - Áudio: `PROJETO_07.mp3`
+   - Capa: `PROJETO_07.png` (ou .jpg)
+
+3. Para o ARQUIVO DESCONHECIDO (PROJETO 08 / CLASSIFICADO):
+   - Áudio: `ARQUIVO_DESCONHECIDO.mp3`
+   - Capa: `ARQUIVO_DESCONHECIDO.png` (ou .jpg)
+
+Assim que colocar os arquivos correspondentes aqui, o player os tocará normalmente ao clicar!

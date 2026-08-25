@@ -1,0 +1,353 @@
+{
+  "responseContext": {
+    "serviceTrackingParams": [
+      {
+        "service": "GFEEDBACK",
+        "params": [
+          {
+            "key": "is_alc_surface",
+            "value": "false"
+          },
+          {
+            "key": "ipcc",
+            "value": "0"
+          },
+          {
+            "key": "is_viewed_live",
+            "value": "False"
+          },
+          {
+            "key": "logged_in",
+            "value": "0"
+          },
+          {
+            "key": "visitor_data",
+            "value": "CgtGN3VSSHptWlVCOCjj0p7SBjIKCgJVUxIEGgAgU2LfAgrcAjE5LllUPVozSDJhV0xSV2lCSDJwUGJpS05KakZhOW9vLWlvemVyQ01yUVVvNXkySkQzRnotcUJVcWVqdDlEOHc1YXBzZVh4bTVHVFlxblVDSzRmQ2tULWc5M2w5bTlQeUFiZ0hsczJDN0RoOWpkODNic1M2NldHRXNwZmdScTZudzJsNVJRTjFaMWRSTG1GOTk3MXVmNG0zZlhVT1dyd2M4cTN6NU5Xd1JkUDJZZ2Yydnh4YWNEeDVMR1djald0YVhzWWktMFVkV0wwbXJ0NGtfSkdCelB6VGNoWVdhUE5qRkd3SHVxTERXUXZiMF8yeHppenY3QVZFcVk2SGhWN0Z5V2U0QXhWTHN3RDJHYnZoY3dVZ3RRUndTcEwzTnNTR3RhQXQtY3BlUEJuZEpwV2JlX00zdm8xVUZ6eUNEWl9UTVhNcmtvZmcwR3lJNnRRWWl2WVg1aTBSSk4wZw%3D%3D"
+          }
+        ]
+      },
+      {
+        "service": "CSI",
+        "params": [
+          {
+            "key": "c",
+            "value": "WEB"
+          },
+          {
+            "key": "cver",
+            "value": "2.20260630.03.00"
+          },
+          {
+            "key": "yt_li",
+            "value": "0"
+          },
+          {
+            "key": "GetPlayer_rid",
+            "value": "0x7fe168d2afb7bc03"
+          }
+        ]
+      },
+      {
+        "service": "GUIDED_HELP",
+        "params": [
+          {
+            "key": "logged_in",
+            "value": "0"
+          }
+        ]
+      },
+      {
+        "service": "ECATCHER",
+        "params": [
+          {
+            "key": "client.version",
+            "value": "2.20260630"
+          },
+          {
+            "key": "client.name",
+            "value": "WEB"
+          }
+        ]
+      }
+    ],
+    "maxAgeSeconds": 0,
+    "mainAppWebResponseContext": {
+      "loggedOut": true,
+      "trackingParam": "k5_fmPxhoXZRCTgL3WcjQP304dID8_Q44Ebr61Dg6ggDQgiLnl94a3AzZzRMkuMYNLBwOcCw59TLtslLKPQGSS"
+    },
+    "responseId": "IhMIgta1w7-2lQMVJElMCB00Nhe3",
+    "webResponseContextExtensionData": {
+      "webResponseContextPreloadData": {
+        "preloadMessageNames": [
+          "playerErrorMessageRenderer",
+          "buttonRenderer",
+          "mealbarPromoRenderer"
+        ]
+      },
+      "hasDecorated": true
+    }
+  },
+  "playabilityStatus": {
+    "status": "LOGIN_REQUIRED",
+    "reason": "Sign in to confirm you’re not a bot",
+    "errorScreen": {
+      "playerErrorMessageRenderer": {
+        "subreason": {
+          "runs": [
+            {
+              "text": "This helps protect our community. "
+            },
+            {
+              "text": "Learn more",
+              "navigationEndpoint": {
+                "clickTrackingParams": "CAAQu2kiEwiC1rXDv7aVAxUkSUwIHTQ2F7fKAQQQPIc3",
+                "commandMetadata": {
+                  "webCommandMetadata": {
+                    "url": "https://support.google.com/youtube/answer/3037019#zippy=%2Ccheck-that-youre-signed-into-youtube",
+                    "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                    "rootVe": 83769
+                  }
+                },
+                "urlEndpoint": {
+                  "url": "https://support.google.com/youtube/answer/3037019#zippy=%2Ccheck-that-youre-signed-into-youtube"
+                }
+              }
+            }
+          ]
+        },
+        "reason": {
+          "simpleText": "Sign in to confirm you’re not a bot"
+        },
+        "proceedButton": {
+          "buttonRenderer": {
+            "style": "STYLE_OVERLAY",
+            "size": "SIZE_DEFAULT",
+            "isDisabled": false,
+            "text": {
+              "simpleText": "Sign in"
+            },
+            "navigationEndpoint": {
+              "clickTrackingParams": "CAQQptEGIhMIgta1w7-2lQMVJElMCB00Nhe3ygEEEDyHNw==",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fwatch%253Fv%253DN-cl1rcye1k&hl=en",
+                  "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                  "rootVe": 83769
+                }
+              },
+              "signInEndpoint": {
+                "nextEndpoint": {
+                  "clickTrackingParams": "CAQQptEGIhMIgta1w7-2lQMVJElMCB00Nhe3ygEEEDyHNw==",
+                  "commandMetadata": {
+                    "webCommandMetadata": {
+                      "url": "/watch?v=N-cl1rcye1k",
+                      "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                      "rootVe": 83769
+                    }
+                  },
+                  "urlEndpoint": {
+                    "url": "/watch?v=N-cl1rcye1k"
+                  }
+                }
+              }
+            },
+            "trackingParams": "CAQQptEGIhMIgta1w7-2lQMVJElMCB00Nhe3"
+          }
+        },
+        "thumbnail": {
+          "thumbnails": [
+            {
+              "url": "//s.ytimg.com/yts/img/meh7-vflGevej7.png",
+              "width": 140,
+              "height": 100
+            }
+          ]
+        },
+        "icon": {
+          "iconType": "ERROR_OUTLINE"
+        }
+      }
+    },
+    "skip": {
+      "playabilityErrorSkipConfig": {
+        "skipOnPlayabilityError": false
+      }
+    },
+    "contextParams": "Q0FFU0FnZ0I="
+  },
+  "trackingParams": "CAAQu2kiEwiC1rXDv7aVAxUkSUwIHTQ2F7fKAQQQPIc3",
+  "messages": [
+    {
+      "mealbarPromoRenderer": {
+        "icon": {
+          "thumbnails": [
+            {
+              "url": "https://www.gstatic.com/youtube/img/promos/growth/32565a681f5420b051f863e20a723490d94d07306de7b379862f0ec4a0d6676c_384x384.png",
+              "width": 384,
+              "height": 384
+            }
+          ]
+        },
+        "messageTexts": [
+          {
+            "runs": [
+              {
+                "text": "Our desktop experience was built to be your music destination. Listen to official albums & more."
+              }
+            ]
+          }
+        ],
+        "actionButton": {
+          "buttonRenderer": {
+            "style": "STYLE_MONO_FILLED",
+            "size": "SIZE_DEFAULT",
+            "text": {
+              "runs": [
+                {
+                  "text": "Check it out"
+                }
+              ]
+            },
+            "trackingParams": "CAMQ7G8iEwiC1rXDv7aVAxUkSUwIHTQ2F7c=",
+            "command": {
+              "clickTrackingParams": "CAMQ7G8iEwiC1rXDv7aVAxUkSUwIHTQ2F7fKAQQQPIc3",
+              "commandExecutorCommand": {
+                "commands": [
+                  {
+                    "clickTrackingParams": "CAMQ7G8iEwiC1rXDv7aVAxUkSUwIHTQ2F7fKAQQQPIc3",
+                    "commandMetadata": {
+                      "webCommandMetadata": {
+                        "url": "https://music.youtube.com/",
+                        "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                        "rootVe": 83769
+                      }
+                    },
+                    "urlEndpoint": {
+                      "url": "https://music.youtube.com",
+                      "target": "TARGET_NEW_WINDOW"
+                    }
+                  },
+                  {
+                    "commandMetadata": {
+                      "webCommandMetadata": {
+                        "sendPost": true,
+                        "apiUrl": "/youtubei/v1/feedback"
+                      }
+                    },
+                    "feedbackEndpoint": {
+                      "feedbackToken": "AB9zfpI_mxOGEy56nMhbjrc7krKNdU8pL4TZeGKIXZNHoPG3feWsPumju5xaPqElqXvZBR70YxNJx4mgWcKXt0rLZh8RscPmQkl1AmMKmtxm8-5brVIgSykuJV67bk2N9JfTq9tSdMWf9KE1JZerZ3YwRP2qV_rY-Bh72I1MPALBLTLwCwNqvrc",
+                      "uiActions": {
+                        "hideEnclosingContainer": true
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "dismissButton": {
+          "buttonRenderer": {
+            "style": "STYLE_MONO_TONAL",
+            "size": "SIZE_DEFAULT",
+            "text": {
+              "runs": [
+                {
+                  "text": "No thanks"
+                }
+              ]
+            },
+            "trackingParams": "CAIQ7W8iEwiC1rXDv7aVAxUkSUwIHTQ2F7c=",
+            "command": {
+              "clickTrackingParams": "CAIQ7W8iEwiC1rXDv7aVAxUkSUwIHTQ2F7fKAQQQPIc3",
+              "commandExecutorCommand": {
+                "commands": [
+                  {
+                    "clickTrackingParams": "CAIQ7W8iEwiC1rXDv7aVAxUkSUwIHTQ2F7fKAQQQPIc3",
+                    "commandMetadata": {
+                      "webCommandMetadata": {
+                        "sendPost": true,
+                        "apiUrl": "/youtubei/v1/feedback"
+                      }
+                    },
+                    "feedbackEndpoint": {
+                      "feedbackToken": "AB9zfpJEULLOQNjtI_0QrdFeVip6kGcEcg2MTzyyOoHtJ3FUmcO-Ck_um-Dil-zYWOoh-6zabCfUKnuO_vOdKpaCR1_MRJ_mqAe5EafJyzlyFC0Ax2-fM5YORicw3a8pNfiY1PT5uL42J3NrziNN6Bo5dI4Ot1zHRXay9pW7tBrStjKUvv35hks",
+                      "uiActions": {
+                        "hideEnclosingContainer": true
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "triggerCondition": "TRIGGER_CONDITION_POST_AD",
+        "style": "STYLE_MODERN",
+        "trackingParams": "CAEQ42kYACITCILWtcO_tpUDFSRJTAgdNDYXtw==",
+        "impressionEndpoints": [
+          {
+            "clickTrackingParams": "CAEQ42kYACITCILWtcO_tpUDFSRJTAgdNDYXt8oBBBA8hzc=",
+            "commandMetadata": {
+              "webCommandMetadata": {
+                "sendPost": true,
+                "apiUrl": "/youtubei/v1/feedback"
+              }
+            },
+            "feedbackEndpoint": {
+              "feedbackToken": "AB9zfpL3ILbzsRRgAgwtS2O2uaEhTUDGPhC8cBkv-gUYe8xBPhF1Bp3WoXDMc7KUvG-EvQFyW_rD46pb76KHBkUnveT8RVCoYuRq1nHpifT0ZjB2rj2peb9GSx9jbHQRdeiidF0mO9WSf6tUAWont53XIPokFXPtekhOzGNVLP1CIvOXbm1CXIY",
+              "uiActions": {
+                "hideEnclosingContainer": false
+              }
+            }
+          }
+        ],
+        "isVisible": true,
+        "messageTitle": {
+          "runs": [
+            {
+              "text": "Where music meets your desktop"
+            }
+          ]
+        },
+        "iconDark": {
+          "thumbnails": [
+            {
+              "url": "https://www.gstatic.com/youtube/img/promos/growth/32565a681f5420b051f863e20a723490d94d07306de7b379862f0ec4a0d6676c_384x384.png",
+              "width": 384,
+              "height": 384
+            }
+          ]
+        },
+        "supplementalText": {
+          "runs": [
+            {
+              "text": "Terms apply. Cancel anytime"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "adBreakHeartbeatParams": "Q0FBJTNE",
+  "frameworkUpdates": {
+    "entityBatchUpdate": {
+      "mutations": [
+        {
+          "entityKey": "Eg0KC04tY2wxcmN5ZTFrIPYBKAE%3D",
+          "type": "ENTITY_MUTATION_TYPE_REPLACE",
+          "payload": {
+            "offlineabilityEntity": {
+              "key": "Eg0KC04tY2wxcmN5ZTFrIPYBKAE%3D",
+              "addToOfflineButtonState": "ADD_TO_OFFLINE_BUTTON_STATE_UNKNOWN"
+            }
+          }
+        }
+      ],
+      "timestamp": {
+        "seconds": "1783081315",
+        "nanos": 757497008
+      }
+    }
+  }
+}

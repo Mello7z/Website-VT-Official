@@ -1,0 +1,6 @@
+{
+  "name": "VILLAFAN - High-End Cinematic Music Experience",
+  "description": "A minimalist, storytelling-driven artist portfolio for VILLAFAN (Trap/Cinematic genre).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
